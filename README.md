@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LovKnd
+- 👀 I’m interested in learn to learning
+- 🌱 I’m currently learning Computer Science
+- 📫 How to reach me ...
